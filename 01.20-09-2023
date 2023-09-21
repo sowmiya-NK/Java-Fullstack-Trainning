@@ -1,1 +1,28 @@
-1 cfbf
+1.How whatsapp was working?
+     dev-->build &deploy-->server-->database
+       user(whatsapp)-->load balacing-->server-->database
+       log==>when user send the data .it store the date and time ie,timestamp
+       matrix==>server evaluate
+
+2.DNS(Domain Name System)==>working process
+    client send the domain name it go to dns and it send ip adddress it redirect to the main page.
+
+3.TCP & UDP
+    TCP->Transmision control protocol(three way handshake is there)
+    UDP->user datagram protocol(here if data is missed,we can't retrieve)
+
+4.API(Application programming Interface)
+ types
+ 1.REST
+ 2.Graphical
+ 3.Grpc
+methods(get,post,put,delete)
+
+5.CDN(Content Delivery Network)
+   if user send the message to  server first it can go throught CDN which is near to the user
+
+6.create a github account and download git Application
+7.this is my small website about kumaran system using html and css
+https://github.com/sowmiya-NK/About-Kumaran-System
+
+
