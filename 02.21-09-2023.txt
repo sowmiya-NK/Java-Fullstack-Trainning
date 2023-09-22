@@ -1,0 +1,67 @@
+html(hypertext markup language)
+
+form,anchor ,target,span,image folder pastig
+audio video ,entities,
+css property ->external file,internal ,inline
+list->ol,li
+table, th*4 ctrl+space-->heading
+tr>td*4-->rows
+table colors
+
+css
+selector ->id,class,attribute
+attrribute selector
+input[type="text"]{
+}
+
+1.css combinator
+psudo selector element
+relational operator
+child selector(div>p)
+descendant selecot(div p)
+adjacent sibling selector(div + P)==>after following the div element p tag will apply the style property
+general sibling selector(~)
+
+2.css psudeo class
+a:link,visited,hover(for link)
+psudeo elements-->p::first-letter{
+}==>display first letter color
+
+lang psudeo class
+<q lang="no"></q>
+
+psudo-selector
+p:nth-child(odd)
+{
+}
+
+ctrl+/==>comment tipes
+
+flex,flex-direction--rows,column,justify,align items-->it go up and down an vertically
+.items:nth-child(1)
+align-self:center or flex-start or flex-end 
+justify-content,flex direction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
