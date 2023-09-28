@@ -1,0 +1,35 @@
+onclick="fun()"
+window.addeventlistener("load/click",()=>{});==>click and do  some action//anonymous function or window.addevenetlistener("load",fun);
+onclick,addhandler,onchange
+--------------------------------------------------------------------------
+reference method==>document.getelementbyid();
+------------------------------------------------------------------------------
+
+const pararef=doc.getelementbyid("para");
+inputref.addeventlistener("keyup",()=>{
+pararef.innertext=inputref.value;
+}
+-------------------------------------------------------------------------
+
+//button id=btn onclick="clickhandler()"
+const clickhandler=()=>{
+pararef.innertext=inputref.value;}
+--------------------------------------------------------------------------------
+
+//getelementbyid,tagname,classname,queryselector 
+-------------------------------------------------------------------------------
+
+//addition 
+input 2 box,btn ,p id="res"
+
+const addhandler=()=>{
+document.getelementbyid("res").innertext=parseint(input1)+parseint(input1)}
+--------------------------------------------------------------------------------
+
+// try to create a wepage about ecommerce
+
+
+
+
+
+
