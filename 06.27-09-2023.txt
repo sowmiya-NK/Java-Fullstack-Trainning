@@ -1,0 +1,30 @@
+DOM manipulation
+//todo application
+
+max height/min height
+my-margin
+input box,button,d-flex(place near to input box),ms,border,fs
+document.getelementbyid,
+innerHTML,innerTEXT
+addeventlistener,event listener,onclick
+
+Java Script Topics
+------------------
+    *Variables 
+    *Const 
+    *Primitive types
+    *JS is a dynamic language 
+    *Object 
+    *Nested Objects 
+    *Arrays 
+    *Functions 
+    *Types of function
+    *Conditional 
+    *Loop 
+    *Literals 
+    *Destructing Objects
+    *Spread 
+    *Rest 
+    *Async Await 
+    *Map Reduce Filter 
+    *Fetch
