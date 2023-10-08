@@ -1,0 +1,31 @@
+develop a todo application
+create a input field,add button
+give some p tag for display
+
+---------------------------------
+create initial array
+page load use addEventListener
+
+-----------------------------------
+const function=()=>{}
+refer para tag value
+create varible
+add the varible with html element
+pararef.innerhtml= ;
+
+---------------------------------
+para.ref.valu=inputref
+call load page function
+
+-----------------------------------
+call delete();
+use filter method not match value take
+loadpage();
+
+---------------------------------------
+ref all the input ,para,button reference
+create id as hidden
+pass id do the to edit function
+if(id === arrays.id)
+inputref.value=pararef
+change the add to edit button
