@@ -1,0 +1,13 @@
+learn some basic angular js
+ng new projectname
+ng serve-->for run
+
+ng g c components/name-->components
+ng g s service/name-->service 
+ng g i model/name-->modelds
+
+string interpolation ==>{{}}
+[(ngModel)]==>import Formmodule
+property binding==>[]
+directory->compound,structural(*),attribute(without *)
+
