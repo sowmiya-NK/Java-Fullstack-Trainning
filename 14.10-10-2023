@@ -1,0 +1,49 @@
+// //define type datatype
+// type Profile = {
+//   username: string;
+//   age: number;
+//   password?: string;
+//   setAge(age: number): void;
+// };
+
+// //pass the value
+// let profile: Profile = {
+//   username: "sowmiya",
+//   age: 54,
+//   setAge(age: number): void {
+//     this.age = age;
+//   },
+// };
+
+// // profile.setAge(20);
+
+// //assign the new variable
+// const user = (profile: Profile): Profile | void => {
+//   console.log(profile);
+// };
+// user(profile);
+
+//class
+class fruit {
+  fruits: string;
+  constructor(fruits: string) {
+    this.fruits = fruits;
+  }
+  printfruit():void{
+    console.log(this.fruits);
+    
+  }
+}
+let obj = new fruit("watermelon");
+obj.printfruit()
+
+
+datatype
+1.tuples
+2.enumeration
+3.never
+4.void
+5.type
+6.interface
+
+create students attendence tracker
