@@ -1,0 +1,38 @@
+Angular js
+---------------------------------------------------
+change directory
+ng new foldername--cmd prompt
+remove unwanted files(css,ts)
+remove style  url in app module
+
+ng serve--run
+ng g c compoents/name--create components
+ng g s service/name--create service
+ng g i model/name--model create and interface is there 
+-----------------------------------------------------------
+
+some know key term in angular folder
+-------------------------------------------------------
+
+1.ngModel-display below input field
+connect Form module ,Twoway Binding[()]
+2.declartion->componet-app.module.ts
+3.service-->logic,all function addservice filename to provider
+4.directives->types---->component(@),structural (*),attribute
+5.Event binding-->(click)
+6.Interface-->type
+7.*ngFor->structural directives
+8.decorator-->start @
+9.Model-->interface,type of obj
+10.Import-->top
+export-->class
+11.ngserve-->run app
+12.Templete url-->use in component
+13.Bootstrap-->app module.ts
+14.providers-->add service
+15.constructor-->initilize
+16.property binding--><p[]>
+17.string interpolation-->{{}}
+18.selectors--> add app html file
+
+
