@@ -1,0 +1,32 @@
+delete arrays using for loop
+------------------------------------
+let arrays=['a','b'];
+let emptyarr=[];
+for(let arr of arrays)
+{
+if(arr !=='a')
+{
+emptyarr.push(arr);
+}
+arrays=emptyarr;
+}
+
+
+
+services
+-----------------
+ng g s services/name
+give service nameto provider in app.modules.ts
+constructor(private objname:servicename)//creating object for class
+
+router
+-----------------------
+create some components
+give the path and components in routes
+routerLink="/pagename"
+routerLinkActive="active"-->display bold that page name
+[routerLinkActiveOptions]="{ exact: true }"-->that exact page must be bold
+add router-outlet in router html page
+
+
+
