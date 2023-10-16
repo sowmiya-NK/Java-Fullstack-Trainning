@@ -1,0 +1,14 @@
+created a form validation
+for validation we use 
+->ngModel,
+->ngForm,
+->ngClass
+ngModel==>display belo that field and check a single field
+ngForm==>check that whole form page
+ngClass==>attribute directive,use conditional 
+controls
+using ngIf we check that conditional
+learn 
+->dirty,
+->touched,
+->untouched
