@@ -1,0 +1,10 @@
+load product to home page using httpclient
+authguard
+canActivate
+import httpclient module
+signed user can check all pages and click logout signeduser can remove from local storage
+!-->not have
+|-->pipe
+auth(route,state)==>route-activate,state-snap
+OnInit-->lifecycle
+did addtocart function
