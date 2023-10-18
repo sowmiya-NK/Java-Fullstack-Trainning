@@ -1,0 +1,26 @@
+!=>empty
+
+product loading that page
+-----------------
+create needed components,service,models file
+import httpclient module in add.module.ts
+call that http in service file
+getAllproducts()
+return fake json product
+it set to localstorage
+
+cart loading
+-------------------------------
+create cart in local storage
+call addToCart method in html file and pass that id in that method
+define that method in components 
+call in service
+get local storage cart items
+find that id with local storage product
+push that cart
+
+navbar
+----------------------------------
+call function in cart
+define count=0
+using for loop we increase that count value and return it
