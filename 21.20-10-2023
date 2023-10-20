@@ -1,0 +1,20 @@
+develop a small task
+statement-->first page it contain name,phonenumber and button if i click  that button it go to next page and show these two input value
+
+using angular
+-----------------
+1.create a two component file(form,display)
+2.create one services file and one model file
+3.In html file write a html code
+4.set some twoway binding in input call to component file
+5.add click event function in button and call to component file
+6.in component file ,we create object for service file
+7.pass two input field form component file to services by calling some  function
+8.In service file ,get two input field from component file and set that services file
+9.second component file -->create OnInit method to display that content to next page
+10.pass that two value to OnInit method 
+
+
+Host ecommerce and todoapp page 
+https://sowmiya-nk.github.io/todoapp/
+https://sowmiya-nk.github.io/E-Commerce/
