@@ -1,0 +1,24 @@
+1.exception handling types
+check->compile time error show(IOException.sqlexception)
+unchecked-->runtime exception(ArithimeticException,ArrayIndexOutofBoundsException)
+error
+
+2.name change-->fn+shift+f6
+3.create object and class
+4.method overloading and overriding
+5.upcasting and downcasting
+upcasting-->parent to child class obj creation
+downcasting-->child to parent obj creation=
+6.construcor-->inside class name alt+insert
+7.interface-->only function declartion
+8.abstract->abstract keywords,write statement in body
+9.boxing
+i)autoboxing-->primtive to wrap class
+ii)unboxing-->wrap class to primitive
+10.casting-->convert datatype
+11.Thread
+12.date
+13.try,catch
+
+
+
