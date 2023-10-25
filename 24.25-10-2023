@@ -1,0 +1,46 @@
+Java Exercise
+---------------------
+1. Check for pair in an array with a given sum
+2. Find whether an array is a subset of another array
+3. Finding Prime number between 1 to 100
+4. Find whether the given string is a palindrome
+5. Program to remove vowels from String
+6. Display Fibonacci Series
+7. Count occurrences of a character in String in Java
+8. Count occurrences of substring in a string
+
+ 
+Topics
+=======
+Set
+    Hashset
+    LinkedHashset
+    TreeSet
+ 
+List
+    ArrayList
+    HashLinkedList
+    LinkedList
+ 
+Map
+    HashMap
+ 
+ 
+FileHandling
+    read values
+    write values
+    copy the File
+ 
+JUnit testing
+    maven dependencies
+    annotation
+        test
+        DisplayName
+        beforeeach
+        beforeall
+ 
+deadlock
+when two threads are trying to access the same file to read and write.
+    wait
+    notify
+    notifyAll

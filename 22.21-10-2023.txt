@@ -1,0 +1,28 @@
+java
+-------------------
+1.Datatypes-->int,float,char.byte,short,boolean
+2.Arrays-->int[] a={};
+3.array size declartion --->int[] a=new int[4];
+a[0]=23,a[1]=34
+4.condition-->if,else,nestedif,switch,elseif
+5.break,continue
+6.operators
+7.access specifier(private,public,protected,default) vs access modifier(final,static)
+8.thread-->single,multiple 
+9.Date,method,class,object
+
+
+
+Error finding:
+-------------------------------------------
+array declaration ={};
+outofrange for byte,short
+float f missing
+array declartion in float type define a without quotation
+boolean declartion without quotation
+mplicit call to 'toString()' on array 'e'
+Too many characters in character literal
+Array initializer is not allowed here
+]expected 
+ArrayOutboundIndex
+Operator '&&' cannot be applied to 'int'
