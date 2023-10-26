@@ -1,0 +1,40 @@
+E-commerce
+=======================
+1.create file with mvn
+2.created all needed file setting needed varibles
+3.set boilerplate-->set one time scanner
+4.create interface and class file
+5.create csv file for user data store
+6.First,in app file create object for appController
+7.call init method
+8.in init method,call welcome page
+9.write each display message in stringutilis
+10.display 1.login and 2.regsiter
+11.choose 1 or 2
+12.click 1 its go login page
+13.click 2 its go register  page
+
+
+login
+=====================
+1.get email and password using enterInt from appinput
+2.if user input has empty again it show menu 
+3.if user not equal null call print mgs to homecontroller
+4.write home message in homecontroller
+5.checkvalidate user
+6.create a csv file it store all date
+7.using scanner get file input
+8.while(scanner.hasnext)-->true
+9.append to csv file
+10.set the value to user
+
+
+Register
+=============================
+1.get email,username,password and confirmpassword
+2.create file obj
+3.append to that file
+4.once enter all the field it show registration sucessfully through register page method
+5.check confirm password and password are match or not
+
+
