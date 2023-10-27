@@ -1,0 +1,21 @@
+Continued the e-commerce developemt project in JAVA.
+ 
+Concepts used to build:
+   Encapsulation
+   Interface
+   File handling
+   Exception handling
+   used getter setter for Encapsulation
+   Inheritance
+   Collections
+   File reading from CSV file
+   File Writing in CSV file
+ 
+ 
+Done the logic part for the following pages:
+=============================================
+Cart page
+Orders page
+products page
+Category page
+Welcome page
