@@ -1,0 +1,24 @@
+Continued the e-commerce developemt project in JAVA.
+
+Flow
+================================
+First app run from app.java
+In app.java class File,we create a constructor for appController model
+call a Init method from app.java to appController file
+In that Init Method we call a welcome method to welcome page
+It display a "Welcome to java shopping"
+After we set a navbar menu -->1.login and 2.Register
+If user enter a 1 it go to login page suppose user enter a 2 it move to Register page otherwise it show invalid choice
+In Login Method, we pass a email and password to a user model
+In Register Method,we pass a email,username,password,confirmpassword to File using append method
+After successfully register it again move navbar menu again it ask login and register
+After login it move homemenu page
+In home page it display 1.product 2.category 3.cart 4.orders 5.logout
+it go to productController page it display a product details
+It go to category page,show category name and enter a category id it show a matches product
+Cart-->workinprogress
+orders-->orkinprogress
+it go to navbar menu
+
+put readme file in github
+create date object and complete some small  task using date concept
