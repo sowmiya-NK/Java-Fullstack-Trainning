@@ -1,0 +1,32 @@
+1.collection
+   -Array
+      --ArrayList
+      --LinkedList
+      --Vactor
+
+    -set
+       --Hashset
+       --Treeset
+       --LinkedSet
+    
+    -Map
+       --Hashmap
+       --sortedmap
+       --LinkedHashmap
+       --Treemap
+
+2.java8
+  
+  --stream
+  --functional (input,output)
+  --predicate(return true or false)
+  --consumerinterface
+  --biconsumer
+
+3.create a person details
+  --sort
+  --Map
+  --reverse
+  --set
+  --filter
+  
