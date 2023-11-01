@@ -1,0 +1,39 @@
+sql
+--------------------------------------
+1.DML,DQL,DDL,TCL,DCL
+2.run ctrl+enter
+2.run all ctrl+shift+enter
+
+1. DDL(data definition language)
+-------------------------------------------
+//database
+  --Create database databasename
+  --show databases
+  --use databasename
+
+//table
+  --create table tablename
+  --desc table//for table types show
+  --select from table//display all column
+  --alter(rename,modify,add)
+        --rename->column old name to new name
+        --modify->datatype in column
+         --add->add new column
+ 
+2.DML(Data manipulation language)
+----------------------------------------------
+    --insert into tablename(column) values()
+    --truncate tablename ->delete rows
+    --primary key(unique key ,no duplicate value
+         --create table tablename(columnname datatype primary key(columnname));
+         --alter table tablename add primary key(columnname)
+    --not null(value should be entered)
+         --create table tablename(columnname datatype not null);
+         --alter table tablename add not null(columnname)
+    --default(set the value)
+    --auto increment
+    --Foreign key
+
+
+  
+  
