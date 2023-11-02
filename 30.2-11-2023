@@ -1,0 +1,30 @@
+Servlet-->html inside java
+JSP(java server page)-->java inside html
+get-->url show in title
+post-->url not shown
+
+web.xml
+  --implement xml version
+  --web app 2.5 to implement in webapp page
+  --server
+     --servername
+     --serverclass
+  --servermapping
+     --servername
+    --url pattern(given in html form tag)
+
+index.html
+  --form(method-get,post)
+  --action
+
+sessiontracking(server side display)
+   --dopost(req,resp)
+   --req.parameter("given html input name")
+   --create httpsession
+   --session.setAttribute();
+   --redirect page using session.sendredirecting("given next page session)
+   --session.getattribute();
+   --printerWriter
+
+cookie(client side display)
+    
