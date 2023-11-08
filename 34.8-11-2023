@@ -1,0 +1,49 @@
+spring boot api(Backend)
+-------------------------------------
+
+neededfile
+====================
+  1.pomxml
+  2.controller
+  3.model
+  4.Repository
+  5.resource
+
+1.pomxml
+====================
+  add depandency
+     1.starter-web->@Restcontroller
+     2.jdbc
+     3.starter-jdbc->@jdbctemplete
+
+2.controller
+=========================
+@Restcontroller->return json format
+@crossorigin-->localhost get permission to access
+@autowired-->like constructor
+@Requestmapping-->set url path name
+   get
+   post->insert
+   put->update
+   delete-->pass id using pathvariable
+
+3.model
+=========================
+getter and setter
+
+4.Repository
+======================
+@Repository-->createobject
+create jdbctemplete
+
+5.resource
+==========================
+inside application properties-->write jdbcconnection
+
+
+Spring boot API(frontend)-angular
+--------------------------------------------
+1.fetchdata-->using subscribe get method
+2.delete-->http .delete
+3.post-->http.post
+4.edit-->http.put
