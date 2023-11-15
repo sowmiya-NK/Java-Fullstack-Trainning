@@ -1,0 +1,18 @@
+continous with mini project
+created user Controller
+
+Controller
+--------------
+usercontroller(address->create,delete,update)
+artworkcntroller(getallproduct)
+cartcontroller(create,delete,viewall)
+ordercontroller(placeorder,getuserorder)
+
+service
+----------------
+userservice
+artworkservice
+cartservice
+orderservice
+
+check api in postman
