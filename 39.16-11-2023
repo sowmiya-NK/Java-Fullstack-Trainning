@@ -1,0 +1,51 @@
+continous with mini project
+
+Api call/endpoint
+===========================================
+
+1.user/register or login
+----------------------------------------------
+post-->http://localhost:8080/api/auth/register
+post-->http://localhost:8080/api/auth/login
+
+2.add address
+----------------------------------------------
+post-->http://localhost:8080/api/user
+put-->http://localhost:8080/api/user
+get-->http://localhost:8080/api/user/userId
+delete-->http://localhost:8080/api/user/userId
+
+3.admin category product
+------------------------------------------------
+get-->http://localhost:8080/api/admin/category/all
+post-->http://localhost:8080/api/admin/category
+put-->http://localhost:8080/api/admin/category
+delete-->http://localhost:8080/api/admin/category/categoryId
+
+4.admin add product
+------------------------------------------------
+get-->http://localhost:8080/api/admin/artWork/all
+post-->http://localhost:8080/api/admin/artWork
+put-->http://localhost:8080/api/admin/artWork
+delete-->http://localhost:8080/api/admin/artWork/productId
+
+5.user view product
+------------------------------------------------
+get-->http://localhost:8080/api/ArtWork/all
+
+6.user cart product
+------------------------------------------------
+get-->http://localhost:8080/api/cart/userId
+post-->http://localhost:8080/api/cart
+delete->http://localhost:8080/api/cart/userId/productId
+
+7.user order product
+------------------------------------------------
+get-->http://localhost:8080/api/order/userId
+post-->http://localhost:8080/api/order
+
+8.Admin view order
+---------------------------------------------
+getAllorder-->http://localhost:8080/api/admin/order/all
+getAllorderStatus-->http://localhost:8080/api/admin/order/status/all
+put-->http://localhost:8080/api/admin/order/status
