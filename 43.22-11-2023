@@ -1,0 +1,11 @@
+form validation in angular
+--------------------------------
+1.ngModel-->this input is actually a control of my form which tells  in angular
+2.ngSubmit-->whenever form should submit this ngSubmit will run automatically
+3.#loginform-->On this form object,
+we want to get access to the form created by Angular.
+Now you learn about local references
+you can place on HTML elements to get access to them.
+So we could place #F on the form element
+and now we could access this form element
+4.#modelEmail-->local reference for run if loop

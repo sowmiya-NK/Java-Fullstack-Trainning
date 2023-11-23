@@ -1,0 +1,14 @@
+Arts and ArtsandHandicraft Mini project
+------------------------------------------------
+    *Continued with the integration of back end and 
+        - Integrated all the get methods.
+            ->get product(admin and user side)
+            ->get category
+            ->get cart
+            ->get order
+
+        - Integrated all the DELETE methods.
+            -> DELETE category 
+            -> DELETE product
+            -> DELETE cart
+        
