@@ -2,5 +2,7 @@ Arts and ArtsandHandicraft Mini project
 ------------------------------------------------
   Integrated with backend and '
        put method to cataegory page and prodcut page
-       create many address and delete a particular address
+       create many address and delete a particular address for user
        design with ui alignment
+       admin side view user click some user it show particular user profile and address
+       admin side view order,click any orde it show full order list and user details
