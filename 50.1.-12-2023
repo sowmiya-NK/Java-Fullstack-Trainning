@@ -1,0 +1,18 @@
+
+Arts and ArtsandHandicraft Mini project
+------------------------------------------------
+  Faced some error
+    1.category id not to be string
+    2.add product post method not working 400 bad request
+    3.user side get method not visble
+    4.order page it display all order for particular user it may change
+    
+
+alignment
+     1.login page change
+     2.add some lottie
+     3.order status change
+
+topic
+   1.struct
+   2.lazy loading
