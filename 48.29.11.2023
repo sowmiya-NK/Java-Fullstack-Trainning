@@ -1,0 +1,11 @@
+Arts and ArtsandHandicraft Mini project
+------------------------------------------------
+  Integrated with backend and '
+      Added image to backend 
+      1.application property add image type ,size
+      2.storage service add in backend
+      3.add get and post method in controller
+      4.log that file it show image name and some other given entity file
+      5.create download controller to write get method
+      6.frontend write the formdate
+      7.give that url to html tag with product id
